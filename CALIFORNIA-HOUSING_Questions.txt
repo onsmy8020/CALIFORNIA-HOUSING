@@ -1,4 +1,15 @@
-In this project, we have provided you with a California dataset to answer the following questions. Before starting the project, please explore the dataset online also. All these questions are mandatory. It is a 'must' to give an introduction of the project. You must put comments after codes to explain the step. Each result must be explained after getting the result and figures. If you miss any of these, marks will be deducted. These steps are a must to write a good project. You must explain your project and features in the introduction section. Please explain which feature is nominal, ordinal, discrete or continuous.
+In this project, we have provided you with a California dataset to answer 
+the following questions. Before starting the project, please explore the dataset 
+online also. 
+All these questions are mandatory. 
+It is a 'must' to give an introduction of the project. 
+You must put comments after codes to explain the step. 
+Each result must be explained after getting the result and figures. 
+If you miss any of these, marks will be deducted. 
+These steps are a must to write a good project. 
+You must explain your project and features in the introduction section. 
+Please explain which feature is nominal, ordinal, discrete or continuous.
+=================================================
 
 Please address the following questions:
 1. What is the average median income of the data set and check the distribution of data using appropriate plots. Please explain the distribution of the plot.
